@@ -40,27 +40,6 @@ The internship was structured into multiple levels, designed to progressively en
 * **Problem Solving:** Translating real-world requirements into logical code.
 * **Professionalism:** Effective coordination and attention to detail throughout the development lifecycle.
 
-## 📂 Repository Structure
-
-```text
-├── Level_1/
-│   ├── calculator.py
-│   ├── email_validator.py
-│   └── ...
-├── Level_2/
-│   ├── password_checker.py
-│   └── ...
-├── Level_3/
-│   ├── automation_script.py
-│   └── web_scraper.py
-└── README.md
-
-```
-
 ## 🎓 Certification
 
 The completion of this internship is verified by **Cognifyz Technologies**.
-
----
-
-**Next Step:** Would you like me to help you write the individual code comments for any of these specific tasks?
